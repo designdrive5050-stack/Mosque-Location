@@ -1,0 +1,7 @@
+{
+  "name": "Guidance: Prayer Times & Qibla",
+  "description": "An elegant and modern web application to help Muslims with their daily prayers. It provides accurate prayer times, a Qibla finder, a nearby mosque locator, a Tasbih counter, and daily Quranic inspiration, all based on your current location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
